@@ -15,6 +15,8 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 
 ## Key Features:
 
+    Language:
+        Solutions are mostly written in .Net C# 8
     Structured Organization:
         Solutions are categorized by LeetCode-defined difficulty levels (Easy, Medium, Hard).
         Additional subfolders can be created for specific problem types (e.g., Arrays, Strings, Binary Search).
