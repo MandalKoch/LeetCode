@@ -4,11 +4,14 @@
 
 This repository stores my personal solutions to problems on LeetCode, a platform for practicing coding skills and preparing for technical interviews. It aims to showcase my understanding of various algorithms, data structures, and programming techniques.
 
-[![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
+[LeetCode Profile Badge - MandalGer](https://leetcode.com/MandalGer)
 
 ## Problems
- [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](9. Palindrome Number)
+[![1. Two Sum](https://img.shields.io/badge/1._Two_Sum-solved-9
+)](https://leetcode.com/problems/two-sum/description/)
 
+[![9. Palindrome Number](https://img.shields.io/badge/9._Palindrome_Number-solved-9
+)](https://leetcode.com/problems/palindrome-number/description/)
 
 ## Key Features:
 
@@ -19,9 +22,6 @@ This repository stores my personal solutions to problems on LeetCode, a platform
         Adhere to established coding guidelines and best practices.
         Employ effective time and space complexities where applicable.
         Provide clear and concise variable names and comments.
-    Multiple Languages:
-        Include solutions in your preferred languages (e.g., Python, Java, C++) or explore different ones for learning purposes.
-        Ensure consistency in coding style and conventions across languages.
     Readability and Maintainability:
         Format code consistently for easy reading and understanding.
         Write comprehensive comments to explain complex logic and edge cases.
@@ -32,7 +32,7 @@ This repository stores my personal solutions to problems on LeetCode, a platform
     Clone the repository:
     Bash
 
-    git clone https://github.com/[Your GitHub Username]/leetcode-solutions.git
+    git clone https://github.com/MandalKoch/LeetCode.git
 
     Browse or search for solutions:
         Navigate through the folder structure to find solutions based on difficulty or problem type.
