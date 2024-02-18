@@ -1,12 +1,12 @@
-#LeetCode Solutions - MandalKoch
+# LeetCode Solutions - MandalKoch
 
-##Description:
+## Description:
 
 This repository stores my personal solutions to problems on LeetCode, a platform for practicing coding skills and preparing for technical interviews. It aims to showcase my understanding of various algorithms, data structures, and programming techniques.
 
 [![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
 
-##9. Palindrome Number
+## 9. Palindrome Number
 [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](https://leetcode.com/problems/palindrome-number/description/)
 
 
