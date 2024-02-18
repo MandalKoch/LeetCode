@@ -7,7 +7,7 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 [![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
 
 
-[![Contribution Status Badge](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MandalKoch/leetcode-solutions/pulls)
+[![9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/))](https://img.shields.io/badge/leetcode-solved-9)
 
 
 ##Key Features:
