@@ -7,27 +7,23 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 [LeetCode Profile Badge - MandalGer](https://leetcode.com/MandalGer)
 
 ## Problems
-[![1. Two Sum](https://img.shields.io/badge/1._Two_Sum-solved-9
+[![1. Two Sum](https://img.shields.io/badge/1._Two_Sum-solved-green
 )](https://leetcode.com/problems/two-sum/description/)
-
-[![9. Palindrome Number](https://img.shields.io/badge/9._Palindrome_Number-solved-9
+[![9. Palindrome Number](https://img.shields.io/badge/9._Palindrome_Number-Solved-green
 )](https://leetcode.com/problems/palindrome-number/description/)
+[![13. Roman to Integer](https://img.shields.io/badge/13._Roman_to_Integer-Not_Solved-red
+)](https://leetcode.com/problems/roman-to-integer/description/)
+
 
 ## Key Features:
 
     Language:
         Solutions are mostly written in .Net C# 8
+        Test are written with FluentAssertions and XUnit.
+        https://fluentassertions.com/
+        https://xunit.net/
     Structured Organization:
-        Solutions are categorized by LeetCode-defined difficulty levels (Easy, Medium, Hard).
-        Additional subfolders can be created for specific problem types (e.g., Arrays, Strings, Binary Search).
-    Clean and Efficient Code:
-        Adhere to established coding guidelines and best practices.
-        Employ effective time and space complexities where applicable.
-        Provide clear and concise variable names and comments.
-    Readability and Maintainability:
-        Format code consistently for easy reading and understanding.
-        Write comprehensive comments to explain complex logic and edge cases.
-        Consider using a linter or code formatter for automated checks.
+        Two main project. One with the solutions and one with the corresponding Unit test.
 
 ## Usage:
 
@@ -53,3 +49,6 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 
     These solutions are intended for educational purposes and may not be optimal for all scenarios.
     Always test and adapt the code according to your specific needs.
+    
+
+
