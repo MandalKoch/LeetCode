@@ -7,10 +7,12 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 [![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
 
 ## Problems
+ [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](9. Palindrome Number)
+
 9. Palindrome Number [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](https://leetcode.com/problems/palindrome-number/description/)
 
 
-##Key Features:
+## Key Features:
 
     Structured Organization:
         Solutions are categorized by LeetCode-defined difficulty levels (Easy, Medium, Hard).
@@ -27,7 +29,7 @@ This repository stores my personal solutions to problems on LeetCode, a platform
         Write comprehensive comments to explain complex logic and edge cases.
         Consider using a linter or code formatter for automated checks.
 
-##Usage:
+## Usage:
 
     Clone the repository:
     Bash
@@ -41,13 +43,13 @@ This repository stores my personal solutions to problems on LeetCode, a platform
         Study the code, understand the approaches, and adapt them to your own practice.
         Contribute to the discussion by raising questions or suggesting improvements.
 
-##Contribution Guidelines:
+## Contribution Guidelines:
 
     If you'd like to submit improvements or discuss the solutions, feel free to open an issue or pull request.
     Please follow consistent coding style and comment conventions.
     Provide clear explanations for changes you make.
 
-##Disclaimer:
+## Disclaimer:
 
     These solutions are intended for educational purposes and may not be optimal for all scenarios.
     Always test and adapt the code according to your specific needs.
