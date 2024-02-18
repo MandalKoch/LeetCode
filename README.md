@@ -9,8 +9,6 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 ## Problems
  [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](9. Palindrome Number)
 
-9. Palindrome Number [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](https://leetcode.com/problems/palindrome-number/description/)
-
 
 ## Key Features:
 
