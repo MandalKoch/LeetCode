@@ -6,8 +6,8 @@ This repository stores my personal solutions to problems on LeetCode, a platform
 
 [![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
 
-## 9. Palindrome Number
-[![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](https://leetcode.com/problems/palindrome-number/description/)
+## Problems
+9. Palindrome Number [![9. Palindrome Number](https://img.shields.io/badge/leetcode-solved-9)](https://leetcode.com/problems/palindrome-number/description/)
 
 
 ##Key Features:
