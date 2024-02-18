@@ -5,9 +5,10 @@
 This repository stores my personal solutions to problems on LeetCode, a platform for practicing coding skills and preparing for technical interviews. It aims to showcase my understanding of various algorithms, data structures, and programming techniques.
 
 [![LeetCode Profile Badge](https://leetcode.com/badge/render/MandalGer.svg)](https://leetcode.com/MandalGer)
+
+
 [![Contribution Status Badge](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MandalKoch/leetcode-solutions/pulls)
 
-[![Solved Problems Badge](https://img.shields.io/badge/leetcode-solved-9%20problems-green.svg?style=flat&logo=leetcode)](https://leetcode.com/MandalGer)
 
 ##Key Features:
 
